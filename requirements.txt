@@ -1,0 +1,2 @@
+streamlit==0.96.0
+# Add other dependencies if needed
